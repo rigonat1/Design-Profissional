@@ -18,7 +18,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: `Ciência da Computação - Design Profissional`
 - Professor ou orientador: `Isabella Luiza`
 - Grupo: `[preencher]`
-- Integrantes: `Victor, Thiago`
+- Integrantes: `Victor Rigonati Barbaresco, Thiago Rafael Alves Dos Santos Junior`
 - Data de início: `22/09/2026`
 
 
