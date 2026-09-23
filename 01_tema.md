@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `Victor, Thiago`
+- Integrantes: `Victor Rigonati Barbaresco, Thiago Rafael Alves Dos Santos Junior`
 - Data: `22/09/2026`
 
 ## Preenchimento
@@ -54,5 +54,5 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `Victor Rigonati Barbaresco` | `[preencher]` |
-| `Thiago Rafael Alves dos Santos Junior` | `[preencher]` |
+| `Victor Rigonati Barbaresco` | `Todos contribuiram` |
+| `Thiago Rafael Alves dos Santos Junior` | `Todos contribuiram` |
